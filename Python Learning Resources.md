@@ -12,3 +12,6 @@
 ## Jupyter Notebooks collection 
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
+## Jupyter Tutorial
+* https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
