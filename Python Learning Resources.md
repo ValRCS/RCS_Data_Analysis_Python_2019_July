@@ -25,3 +25,6 @@
 * https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 * https://realpython.com/jupyter-notebook-introduction/
 
+# Big List of Python books (freely available)
+
+* https://ebookfoundation.github.io/free-programming-books/free-programming-books.html#python
