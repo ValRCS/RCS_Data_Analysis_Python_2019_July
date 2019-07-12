@@ -2,6 +2,12 @@
 
 * https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)
 
+
+# Python Tutorials
+
+* https://automatetheboringstuff.com/
+* https://www.learnpython.org/
+
 ## Python explained in one article
 
 * https://medium.com/fintechexplained/everything-about-python-from-beginner-to-advance-level-227d52ef32d2
