@@ -1,15 +1,19 @@
 # Python Documentation
+Kind of dry and might not be best for beginners
 * https://docs.python.org/3/
 
 # Python for Everybody - 
 
 * https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)
 
-
 # Python Tutorials
 
 * https://automatetheboringstuff.com/
 * https://www.learnpython.org/
+
+## Python Basics Video
+
+* https://www.youtube.com/watch?v=rfscVS0vtbw
 
 ## Python explained in one article
 
