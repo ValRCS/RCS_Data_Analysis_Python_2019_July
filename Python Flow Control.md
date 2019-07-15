@@ -4,3 +4,5 @@
 
 * https://realpython.com/python-conditional-statements/
 
+![Flow Control](img/python-flow-control.jpg)
+
