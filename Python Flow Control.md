@@ -4,5 +4,7 @@
 
 * https://realpython.com/python-conditional-statements/
 
+![Types of Flow](img/control.png)
+
 ![Flow Control](img/python-flow-control.jpg)
 
