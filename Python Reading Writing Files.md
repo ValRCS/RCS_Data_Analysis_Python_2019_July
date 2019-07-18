@@ -5,6 +5,8 @@
 * https://realpython.com/working-with-files-in-python/
 * https://www.datacamp.com/community/tutorials/reading-writing-files-python
 
+* https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+
 * http://geospatialtraining.com/file-handling-with-python-for-gis-programmers/
 ![FileFlow](http://geospatialtraining.com/wp-content/uploads/2011/09/python_file1.png)
 
