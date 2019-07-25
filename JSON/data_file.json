@@ -1,4 +1,4 @@
-{
+[{
     "firstName": "Jane",
     "lastName": "Doe",
     "hobbies": [
@@ -17,4 +17,4 @@
             "age": 13
         }
     ]
-}
+}, 555]
