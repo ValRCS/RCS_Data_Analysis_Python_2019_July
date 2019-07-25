@@ -9,7 +9,7 @@ The pandas library is massive, and itâ€™s common for frequent users to be u
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-
+fadfadfafd
 
 The code will look like the following:
 ```
