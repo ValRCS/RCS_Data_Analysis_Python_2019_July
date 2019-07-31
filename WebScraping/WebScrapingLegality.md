@@ -18,3 +18,6 @@ So you can win if you are a scraper...
 * scraping vs crawling 
 * Tresspass to Chattels
 * DDOS issues
+
+## More discussion
+* https://news.ycombinator.com/item?id=20570318
