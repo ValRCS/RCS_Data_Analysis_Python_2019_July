@@ -18,5 +18,6 @@ https://scikit-learn.org
 
 ## Precision vs Recall
 
+* https://en.wikipedia.org/wiki/Precision_and_recall
 ![PrecisionVsRecall](../img/precision_vs_recall.png)
 
