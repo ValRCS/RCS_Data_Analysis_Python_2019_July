@@ -4,3 +4,7 @@
 ![OPENCV](https://opencv.org/wp-content/uploads/2019/02/opencv-logo-1.png)
 
 * https://medium.com/@pranav.keyboard/installing-opencv-for-python-on-windows-using-anaconda-or-winpython-f24dd5c895eb
+
+### Using imshow from Jupyter
+
+* https://medium.com/@mrdatainsight/how-to-use-opencv-imshow-in-a-jupyter-notebook-quick-tip-ce83fa32b5ad
