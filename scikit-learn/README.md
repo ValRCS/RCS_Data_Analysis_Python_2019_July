@@ -13,6 +13,8 @@ https://scikit-learn.org
 
 [Manual](https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf)
 
+## scikit-learn roadmap 
+![map](../img/ml_map.png)
 
 ## Precision vs Recall
 
