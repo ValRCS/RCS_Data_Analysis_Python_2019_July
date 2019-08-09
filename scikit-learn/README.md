@@ -13,3 +13,8 @@ https://scikit-learn.org
 
 [Manual](https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf)
 
+
+## Precision vs Recall
+
+![PrecisionVsRecall](../img/precision_vs_recall.png)
+
