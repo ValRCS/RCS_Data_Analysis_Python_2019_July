@@ -8,3 +8,7 @@
 ### Using imshow from Jupyter
 
 * https://medium.com/@mrdatainsight/how-to-use-opencv-imshow-in-a-jupyter-notebook-quick-tip-ce83fa32b5ad
+
+### OpenCV tutorials
+
+* https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
