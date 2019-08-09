@@ -12,3 +12,8 @@
 ### OpenCV tutorials
 
 * https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
+
+#### image
+horse image from unsplash royalty free,
+
+Engure, Latvia by Jordan Sanchez (presumably)
