@@ -16,6 +16,12 @@ https://scikit-learn.org
 ## scikit-learn roadmap 
 ![map](../img/ml_map.png)
 
+
+## Excellent Book
+
+* https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
+![Book](https://images-na.ssl-images-amazon.com/images/I/51%2BkYprYK1L._SX379_BO1,204,203,200_.jpg)
+
 ## Precision vs Recall
 
 * https://en.wikipedia.org/wiki/Precision_and_recall
