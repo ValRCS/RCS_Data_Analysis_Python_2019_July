@@ -13,6 +13,9 @@
 
 * https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
 
+* https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
+* https://www.edureka.co/blog/python-opencv-tutorial/
+
 #### image
 horse image from unsplash royalty free,
 
