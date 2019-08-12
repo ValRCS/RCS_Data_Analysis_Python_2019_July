@@ -24,3 +24,6 @@
 horse image from unsplash royalty free,
 
 Engure, Latvia by Jordan Sanchez (presumably)
+
+## Cascades for classifiers
+* https://github.com/opencv/opencv/tree/master/data/haarcascades
