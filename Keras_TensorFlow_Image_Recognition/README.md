@@ -27,9 +27,14 @@ It is practical to use tf.keras unless you want the pain of reading TensorFlow d
 
 https://keras.io/#getting-started-30-seconds-to-keras
 
+
+
+## Principles of Deep Learning
+
 * https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
 
 ### CNN - Convulutional Neural Networks
+* * https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
 * https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
 
 
