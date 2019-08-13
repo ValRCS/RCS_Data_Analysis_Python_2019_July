@@ -31,11 +31,17 @@ https://keras.io/#getting-started-30-seconds-to-keras
 
 ## Principles of Deep Learning
 
+* https://machinelearningmastery.com/what-is-deep-learning/
 * https://medium.com/@melodious/understanding-deep-neural-networks-from-first-principles-logistic-regression-bd2f01c9e263
 
 ### CNN - Convulutional Neural Networks
 * * https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
 * https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+
+
+## Hotdog or not Hotdog - Hello World for Deep Learning
+
+* https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
 
 
 Google Colab - for hosted notebooks
