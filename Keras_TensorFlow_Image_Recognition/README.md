@@ -31,7 +31,7 @@ https://keras.io/#getting-started-30-seconds-to-keras
 
 ## Principles of Deep Learning
 
-* https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
+* https://medium.com/@melodious/understanding-deep-neural-networks-from-first-principles-logistic-regression-bd2f01c9e263
 
 ### CNN - Convulutional Neural Networks
 * * https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
