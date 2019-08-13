@@ -29,6 +29,9 @@ https://keras.io/#getting-started-30-seconds-to-keras
 
 * https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
 
+### CNN - Convulutional Neural Networks
+* https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+
 
 Google Colab - for hosted notebooks
 http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_2019_July
