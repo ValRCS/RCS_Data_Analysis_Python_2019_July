@@ -72,6 +72,8 @@ https://datascience-school.com/blog/power-bi-in-10-minutes-step-by-step-guide/
 
 * https://www.sqlshack.com/power-bi-desktop-and-python-like-peanut-butter-and-chocolate/
 
+* https://docs.microsoft.com/en-us/power-bi/desktop-python-scripts
+
 
 
 
