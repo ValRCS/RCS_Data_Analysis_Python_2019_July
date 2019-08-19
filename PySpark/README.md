@@ -41,7 +41,7 @@ A DataFrame is a Dataset organized into named columns. It is conceptually equiva
 
 ### Google Colab Notebook
 
-* [Old Google Colab](http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_2019_July/blob/master/PySpark/Neanderthal's_Guide_to_Apache_Spark.ipynb)
+* [Old Google Colab](http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_2019_July/blob/master/PySpark/Neanderthal's_Guide_to_Apache_Spark_08_2019.ipynb)
 
 [![NEW Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_2019_July/blob/master/PySpark/Neanderthal's_Guide_to_Apache_Spark_08_2019.ipynb)
 
