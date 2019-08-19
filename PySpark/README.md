@@ -29,6 +29,8 @@ Apache Spark™ is a unified analytics engine for large-scale data processing.
 
 A DataFrame is a Dataset organized into named columns. It is conceptually equivalent to a table in a relational database or a data frame in R/Python, but with richer optimizations under the hood. 
 
+![RDD](rdd.png)
+
 ### Transformations -> new DataFrame
 
 * https://spark.apache.org/docs/latest/rdd-programming-guide.html#transformations
