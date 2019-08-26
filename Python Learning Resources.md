@@ -29,6 +29,9 @@ Kind of dry and might not be best for beginners
 * https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 * https://realpython.com/jupyter-notebook-introduction/
 
+## Fast AI course
+* https://course.fast.ai/
+
 # Big List of Python books (freely available)
 
 * https://ebookfoundation.github.io/free-programming-books/free-programming-books.html#python
